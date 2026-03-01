@@ -6,7 +6,7 @@
 Answer:Difference-
 getElementById = fastest single by ID (live)  
 getElementsByClassName = live multiple by class  
-querySelector/All = flexible CSS selector, static (first or all).
+querySelector/All = flexible CSS selector, static (first or all ).
 
 **Question 2:How do you create and insert a new element into the Dom?**
 Answer:document.body.appendChild(document.createElement('div'));
